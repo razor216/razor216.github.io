@@ -1,0 +1,88 @@
+body {
+            background-image: url(https://wallpapers.com/images/hd/purple-gradient-background-bywul1wtjnnbbpbk.jpg);
+            background-repeat: no-repeat;
+            background-size: 2700px;
+        }
+        p {
+            margin-top: 50px;
+            margin-left: 250px;
+            margin-right: 250px;
+            font-size: 50px;
+            color: #ffffff;
+        }
+        .Poster {
+            text-align: center;
+        }
+
+.subentrada {
+    font-size: 70px;
+    line-height: 1.6;
+    background-color: rgba(169, 69, 213, 0.5);
+    font-style:oblique;
+    text-align: center;
+}
+
+.eee {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    font-size: 60px;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+.portada {
+    width: 600px;
+}
+.aaa {
+    text-align: center;
+}
+.titulo {
+    margin: 20;
+    padding: 50;
+    margin-left: 180px;
+    margin-right: 180px;
+    font-size: 100px;
+    color: #000000;
+    background-color: #ffffff;
+    border: solid rgba(255, 255, 255, 0.7);
+    text-align: center;
+}
+.A {
+    text-align: center;
+    background-color: rgb(250, 212, 0 , 0.7);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.B {
+    text-align: center;
+    background-color: rgb(48, 222, 0 , 0.7);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.C {
+    text-align: center;
+    background-color: rgb(45, 134, 227 , 0.7);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.D {
+    text-align: center;
+    background-color: rgb(222, 53, 22 , 0.7);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.caacupe-one-regular {
+  font-family: "Caacupe One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
